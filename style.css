@@ -270,7 +270,7 @@ ol.center-list{
     background: linear-gradient(to right,orange, white, green );
 }
 .sky{
-    background-image: url("/Images/sky.jpg");
+    background-image: url("Images/sky.jpg");
     background-size: cover;
     background-position: center;
     width:100%;
@@ -303,7 +303,7 @@ ol.center-list{
 }
 
 .road{
-    background-image: url("/Images/road.jpg");
+    background-image: url("Images/road.jpg");
     background-repeat: repeat-x;
     display: block;
     height: 300px;
@@ -323,7 +323,7 @@ ol.center-list{
 }
 
 .building{
-    background-image:url("/Images/city.png");
+    background-image:url("Images/city.png");
     background-repeat: repeat-x;
     height:350px;
     width:500%;
